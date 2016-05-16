@@ -7,7 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		LCD.drawString("Hello World CHAMPIONS!!!", 0, 4);
+		LCD.drawString("Hello World 3", 0, 4);
 		Delay.msDelay(5000);
 
 	}
